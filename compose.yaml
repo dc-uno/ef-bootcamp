@@ -1,0 +1,6 @@
+﻿services:
+  efbootcamp.api:
+    image: efbootcamp.api
+    build:
+      context: .
+      dockerfile: EFBootcamp.API/Dockerfile

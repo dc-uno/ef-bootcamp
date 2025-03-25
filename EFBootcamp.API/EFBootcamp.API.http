@@ -1,0 +1,6 @@
+@EFBootcamp.API_HostAddress = http://localhost:5195
+
+GET {{EFBootcamp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
